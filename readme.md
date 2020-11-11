@@ -112,5 +112,5 @@ Have fun!
 + *see Blog Article*: http://blog.karstein-consulting.com/2013/03/08/update-of-ps2exe-version-0-3-0-0-now-supports-powershell-3-0-and-2-0/
 
 #### Here are the previous articles on my blog:
-[v0.2.0.0] https://blog.karstein-consulting.com/2012/04/30/ps2exe-v0-2-0-0-improvements-platform-switch-x64-or-x86-or-anycpu-new-exe-config-file-for-supported-runtime/
-[original] http://blog.karstein-consulting.com/2011/06/21/ps2exe-tool-for-converting-powershell-scripts-to-standalone-exe-files/
++ [v0.2.0.0] https://blog.karstein-consulting.com/2012/04/30/ps2exe-v0-2-0-0-improvements-platform-switch-x64-or-x86-or-anycpu-new-exe-config-file-for-supported-runtime/
++ [original] http://blog.karstein-consulting.com/2011/06/21/ps2exe-tool-for-converting-powershell-scripts-to-standalone-exe-files/
